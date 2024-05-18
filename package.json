@@ -1,0 +1,12 @@
+{
+  "name": "-js-for-react-native-11116390",
+  "version": "1.0.0",
+  "main": "arrayManipulation.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
